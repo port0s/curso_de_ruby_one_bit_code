@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+# API do goolgle.
+# gem 'google-translate', '~> 1.1', '>= 1.1.3'
+
+# Facilita a utilização da gem do Google.
+gem 'easy_translate', '~> 0.5.1'
